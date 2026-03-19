@@ -1,5 +1,6 @@
 programa
 {
+	// comentario inicial 
 	
 	funcao inicio()
 	{
